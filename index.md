@@ -18,8 +18,8 @@ My research interests center on using quantitative, computational, and mixed-met
 
 ## Public Writings
 
-- **[The State of Digital Media Data Research 2022](https://mddatacoop.org/files/2023/State%20of%20Digital%20Media%20Data%20Research%202023.pdf)**, by Lukito, J., Brown, M., Dahlke, R., Suk J., Yang, Y., Zhang, Y., **Chen, B.**, Kim, S. J., Soorholtz, K. *MDDC*, 2023. 
-- **[Op-Ed: Social Media Platforms’ Struggles with Misinformation and Racism: Challenges and Paths Forward](https://bridgingbarriers.utexas.edu/news/op-ed-social-media-platforms-struggles-misinformation-and-racism-challenges-and-paths-forward)**, by Lukito, J., Murthy, D, **Chen, B.**, Kazanas, K., Kolluri, A., Venkatesh, P. *Bridging Barriers*, November 11, 2022. 
+- **[The State of Digital Media Data Research 2022](https://mddatacoop.org/files/2023/State%20of%20Digital%20Media%20Data%20Research%202023.pdf)** by Lukito, J., Brown, M., Dahlke, R., Suk J., Yang, Y., Zhang, Y., **Chen, B.**, Kim, S. J., Soorholtz, K. *MDDC*, 2023. 
+- **[Op-Ed: Social Media Platforms’ Struggles with Misinformation and Racism: Challenges and Paths Forward](https://bridgingbarriers.utexas.edu/news/op-ed-social-media-platforms-struggles-misinformation-and-racism-challenges-and-paths-forward)** by Lukito, J., Murthy, D, **Chen, B.**, Kazanas, K., Kolluri, A., Venkatesh, P. *Bridging Barriers*, November 11, 2022. 
 - **[Policy Brief: Designing Responsible AI Technologies to Curb Disinformation Project](https://utexas.app.box.com/s/afle7fobyw130ef0yorrqcqmiyy9k0ez)** by Lukito, J., Kazanas, K., **Chen, B.**. October 26, 2022.
 
 {% include_relative _includes/services.md %}
