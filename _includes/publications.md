@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1093/joc/jqac030">Emerging hybrid networks of verification, accountability, and institutional resilience: the U.S. Capitol Riot and the work of open-source investigation</a></div>
+    <div class="title"><a href="https://doi.org/10.1093/joc/jqac030">Emerging hybrid networks of verification, accountability, and institutional resilience: the U.S. Capitol Riot and the work of open-source investigation.</a></div>
     <div class="author">Stephen D Reese, <strong>Bin Chen</strong></div>
     <div class="periodical"><em> Journal of Communication</em>, Volume 72, Issue 6, December 2022, Pages 633–646, https://doi.org/10.1093/joc/jqac030.</div>
     <div class="links">
