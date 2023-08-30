@@ -11,11 +11,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="[url-to-pdf]">Comparing the #StopTheSteal Movement across Multi-platform: Differentiating Discourse on Facebook, Twitter, and Parler</a></div>
+    <div class="title"><a href="https://osf.io/3tdhv/">Comparing the #StopTheSteal Movement across Multi-platform: Differentiating Discourse on Facebook, Twitter, and Parler</a></div>
     <div class="author"><strong>Bin Chen</strong>, Josephine Lukito, Gyo Hyun Koo</div>
     <div class="periodical"><em> Social Media + Society</em> [in press]</div>
     <div class="links">
-      <a href="[url-to-pdf]" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://osf.io/3tdhv/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">preprint</a>
       <a href="https://osf.io/m7ghc/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 
     </div>
@@ -36,7 +36,7 @@
     <div class="author">Stephen D Reese, <strong>Bin Chen</strong></div>
     <div class="periodical"><em> Journal of Communication</em>, Volume 72, Issue 6, December 2022, Pages 633–646, https://doi.org/10.1093/joc/jqac030.</div>
     <div class="links">
-      <a href="https://doi.org/10.1093/joc/jqac030" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://osf.io/jnq85" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://osf.io/69zbp/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 
     </div>
