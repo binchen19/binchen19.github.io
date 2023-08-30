@@ -15,7 +15,7 @@
     <div class="author"><strong>Bin Chen</strong>, Josephine Lukito, Gyo Hyun Koo</div>
     <div class="periodical"><em> Social Media + Society</em> [in press]</div>
     <div class="links">
-      <a href="https://osf.io/3tdhv/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">preprint</a>
+      <a href="https://osf.io/3tdhv/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://osf.io/m7ghc/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 
     </div>
