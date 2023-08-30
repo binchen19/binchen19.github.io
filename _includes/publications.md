@@ -13,7 +13,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="[url-to-pdf]">Comparing the #StopTheSteal Movement across Multi-platform: Differentiating Discourse on Facebook, Twitter, and Parler</a></div>
     <div class="author"><strong>Bin Chen</strong>, Josephine Lukito, Gyo Hyun Koo</div>
-    <div class="periodical"><em> Social Media + Society</em>[in press]</div>
+    <div class="periodical"><em> Social Media + Society</em> [in press]</div>
     <div class="links">
       <a href="[url-to-pdf]" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://osf.io/m7ghc/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
