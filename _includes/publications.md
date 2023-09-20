@@ -11,11 +11,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://osf.io/3tdhv/">Comparing the #StopTheSteal Movement across Multi-platform: Differentiating Discourse on Facebook, Twitter, and Parler</a></div>
+    <div class="title"><a href="https://journals.sagepub.com/doi/10.1177/20563051231196879">Comparing the #StopTheSteal Movement across Multiple Platforms: Differentiating Discourse on Facebook, Twitter, and Parler </a></div>
     <div class="author"><strong>Bin Chen</strong>, Josephine Lukito, Gyo Hyun Koo</div>
-    <div class="periodical"><em> Social Media + Society</em> [in press]</div>
+    <div class="periodical"><em> Social Media + Society</em> Volume 9, Issue 3, September 2023, https://doi.org/10.1177/20563051231196879. </div>
     <div class="links">
-      <a href="https://osf.io/3tdhv/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://journals.sagepub.com/doi/10.1177/20563051231196879" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://osf.io/m7ghc/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 
     </div>
