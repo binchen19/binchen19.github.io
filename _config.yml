@@ -1,6 +1,8 @@
 # Basic Information 
 title: Bin Chen
-position: Ph.D. Candidate in Journalism
+position: | 
+        PhD Candidate in Journalism
+        MSc in Statistics
 affiliation: University of Texas at Austin
 email: bin.chen@utexas.edu
 
@@ -25,7 +27,7 @@ favicon_dark: ./assets/img/favicon-dark-bc.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
