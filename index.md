@@ -13,8 +13,8 @@ My research focuses on the social and political implications of emerging media. 
 - **Political Communication:** political mis/disinformation, digital collective actions, strategic communication
 - **Comparative Media Studies:** comparative news framing, public opinion in Global South
 
-{% include_relative _includes/publications.md %}
 {: #publication}
+{% include_relative _includes/publications.md %}
 
 ## Public Writings
 - **[The State of Digital Media Data Research 2022](https://mddatacoop.org/files/2023/State%20of%20Digital%20Media%20Data%20Research%202023.pdf)** by Lukito, J., Brown, M., Dahlke, R., Suk J., Yang, Y., Zhang, Y., **Chen, B.**, Kim, S. J., Soorholtz, K. *MDDC*, 2023. 
