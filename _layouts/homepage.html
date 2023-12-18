@@ -26,7 +26,7 @@
       <!-- CSS for Navigation Bar -->
     <style>
       .navbar {
-        position: fixed;
+        position: absolute;
         top: 0;
         right: 0;
         background-color: #fff;
@@ -51,16 +51,17 @@
   </head>
   <body>
     
-  <div class="navbar">
-    <a href="#about">About</a>
-    <a href="#publication">Publications</a>
-    <a href="#CV">CV</a>
-    <!-- Add more links as needed -->
-  </div>
-    
     <div class="wrapper">
+      
+      <div class="navbar">
+        <a href="#about">About</a>
+        <a href="#publication">Publications</a>
+        <a href="#CV">CV</a>
+        <!-- Add more links as needed -->
+      </div>
+      
       <header>
-        
+      
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
