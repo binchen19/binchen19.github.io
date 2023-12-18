@@ -21,4 +21,5 @@ My research focuses on the social and political implications of emerging media. 
 - **[Op-Ed: Social Media Platforms’ Struggles with Misinformation and Racism: Challenges and Paths Forward](https://bridgingbarriers.utexas.edu/news/op-ed-social-media-platforms-struggles-misinformation-and-racism-challenges-and-paths-forward)** by Lukito, J., Murthy, D, **Chen, B.**, Kazanas, K., Kolluri, A., Venkatesh, P. *Bridging Barriers*, November 11, 2022. 
 - **[Policy Brief: Designing Responsible AI Technologies to Curb Disinformation Project](https://utexas.app.box.com/s/afle7fobyw130ef0yorrqcqmiyy9k0ez)** by Lukito, J., Kazanas, K., **Chen, B.**. October 26, 2022.
 
+{: #resource}
 {% include_relative _includes/resources.md %}
