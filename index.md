@@ -23,3 +23,5 @@ My research focuses on the social and political implications of emerging media. 
 
 {: #resource}
 {% include_relative _includes/resources.md %}
+
+last update: 12/18/2023
