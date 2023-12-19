@@ -69,17 +69,18 @@
 
         <h1>{{ site.title }}</h1>
 
-        {% if site.position %}
-        <position>{{ site.position }}</position>
+       {% if site.position %}
+        <position style="font-size: 16px;color: black;">{{ site.position }}</position>
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor style="font-size: 14px;color: black;">{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <email style="font-size: 16px;color: black;">{{ site.email }}</email>
         {% endif %}
+
 
         <br>
         <br>
