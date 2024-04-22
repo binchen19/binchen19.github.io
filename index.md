@@ -8,9 +8,9 @@ My research focuses on the social and political implications of emerging media. 
 
 ## Research Interests
 
-- **Computational Social Science:** large-scale text processing, content analysis, network analysis, frame detection, text classification
-- **Political Communication:** political mis/disinformation, digital collective actions, strategic communication
-- **Comparative Media Studies:** comparative news framing, public opinion in Global South
+- **Cross-platform Political Communication:** political mis/disinformation, collective actions, election campaigns
+- **Comparative/International Studies:** transnational information flow, comparative news studies, information governance
+- **Computational Social Science:** large-scale text classification, multi-modal data analysis, LLM in social science
 
 {: #publication}
 {% include_relative _includes/publications.md %}
