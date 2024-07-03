@@ -2,15 +2,14 @@
 layout: homepage
 ---
 {: #about}
-Hi! I am an Assistant Professor at the [Journalism and Media Sudies Centre](https://jmsc.hku.hk/), the University of Hong Kong. My research focuses on digital media and politics, computational social science, social and political implications of emerging technologies, and comparative media studies. 
+Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/), the University of Hong Kong. My research interests include digital media and politics, computational social science, social and political implications of emerging technologies, and comparative media studies. Before joining HKU, I earned my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/), and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from the University of Texas at Austin.
 
-I got my PhD in Journalism and Media at the University of Texas at Austin, where I also hold an M.S. degree in Statistics and Data Science.
+My research is primarily driven by quantitative and computational methods. My current research projects are categorized into three primary areas:
 
-## Research Interests
+- **Cross-Platform Information Flow and Influence**: In this strand, I focus on the dynamics of information within the hybrid media system—including news media and social media. I explore how information flows from one platform to another and the strategic use of various digital platforms by activists, politicians, and media organizations.
+- **Computational Social Science**: My research is often driven by cutting-edge computational tools, including multimodal data analysis (image-as-data, radio-as-data). I am also working on inferential network analysis to explore dynamics in organizational behaviors, such as OSINT collaboration, mobilization, and information governance networks.
+- **Artificial Intelligence in Journalism and Media Studies**: I investigate the social and political implications of recent generative AI in journalism and media studies. I am particularly interested in how different generative AI technologies play distinct roles and their effects on users' perceptions, attitudes, and behaviors.
 
-- **Cross-platform Political Communication:** political mis/disinformation, collective actions, election campaigns
-- **Comparative/International Studies:** transnational information flow, comparative news studies, information governance
-- **Computational Social Science:** large-scale text classification, multi-modal data analysis, LLM in social science
 
 {: #publication}
 {% include_relative _includes/publications.md %}
