@@ -2,7 +2,7 @@
 layout: homepage
 ---
 {: #about}
-Hi! I am an Assistant Professir at the [Journalism and Media Sudies Centre](https://jmsc.hku.hk/),the University of Hong Kong. My research focuses on digital media and politics, computational social science, social and political implications of emerging technologies, and comparative media studies. My ongoing research takes a multi-platform approach to examining the information flow and cross-platform dynamics in journalistic practices, social movements, and political campaigns.
+Hi! I am an Assistant Professor at the [Journalism and Media Sudies Centre](https://jmsc.hku.hk/), the University of Hong Kong. My research focuses on digital media and politics, computational social science, social and political implications of emerging technologies, and comparative media studies. 
 
 I got my PhD in Journalism and Media at the University of Texas at Austin, where I also hold an M.S. degree in Statistics and Data Science.
 
