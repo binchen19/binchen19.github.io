@@ -48,7 +48,7 @@
   </div>
 </li>
 
-<!-- MAC: Audio-as-data -->
+<!-- MAC: Audio -->
 
 <li>
   <div class="pub-row">
