@@ -3,6 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
+<!-- SMS: Atlanta Shooting -->
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
@@ -24,6 +25,7 @@
   </div>
 </li>
 
+<!-- JQD: Email -->
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative; padding: 0 15px;">
@@ -45,6 +47,8 @@
     </div>
   </div>
 </li>
+
+<!-- MAC: Audio-as-data -->
 
 <li>
   <div class="pub-row">
@@ -68,6 +72,7 @@
   </div>
 </li>
 
+<!-- SMS: Compare STS -->
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
@@ -90,6 +95,7 @@
   </div>
 </li>
 
+<!-- JOC: OSINT -->
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
@@ -112,6 +118,7 @@
   </div>
 </li>
 
+<!-- IJOC: Compare Frame -->
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative; padding: 0 15px;">
