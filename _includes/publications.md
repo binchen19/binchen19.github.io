@@ -18,7 +18,7 @@
         <em>Social Media + Society</em> Volume 10, Issue 3, 2024, <a href="https://doi.org/10.1177/20563051241269278">https://doi.org/10.1177/20563051241269278</a>.
       </div>
       <div class="links">
-        <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Read More</a>
+        <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       </div>
     </div>
   </div>
@@ -40,7 +40,7 @@
         <a href="https://doi.org/10.51685/jqd.2024.012">10.51685/jqd.2024.012</a>.
       </div>
       <div class="links">
-        <a href="https://journalqd.org/article/view/4299/4532" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Read More</a>
+        <a href="https://journalqd.org/article/view/4299/4532" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
       </div>
     </div>
   </div>
@@ -107,5 +107,7 @@
     </div>
   </div>
 </li>
+
 </ol>
 </div>
+<br>

@@ -10,10 +10,8 @@ My research is primarily driven by quantitative and computational methods. My cu
 - **Computational Social Science**: My research is often driven by cutting-edge computational tools, including multimodal data analysis (image-as-data, radio-as-data). I am also working on inferential network analysis to explore dynamics in organizational behaviors, such as OSINT collaboration, mobilization, and information governance networks.
 - **Artificial Intelligence in Journalism and Media Studies**: I investigate the social and political implications of recent generative AI in journalism and media studies. I am particularly interested in how different generative AI technologies play distinct roles and their effects on users' perceptions, attitudes, and behaviors.
 
-
 {: #publication}
 {% include_relative _includes/publications.md %}
-
 
 ## Public Writings
 - **[The State of Digital Media Data Research 2024](https://repositories.lib.utexas.edu/items/14a17341-7261-4e84-bafc-86d052047fdf)** by Brown, M. A., Lukito, J., Greenfield, J., **Chen, B.**, Graham, S., Shugars, S., Pruden, M. *MDDC*, 2024. 
