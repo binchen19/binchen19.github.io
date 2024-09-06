@@ -21,12 +21,12 @@ My research is primarily driven by quantitative and computational methods. My cu
 - **[Op-Ed: Social Media Platforms’ Struggles with Misinformation and Racism: Challenges and Paths Forward](https://bridgingbarriers.utexas.edu/news/op-ed-social-media-platforms-struggles-misinformation-and-racism-challenges-and-paths-forward)** by Lukito, J., Murthy, D, **Chen, B.**, Kazanas, K., Kolluri, A., Venkatesh, P. *Bridging Barriers*, November 11, 2022. 
 - **[Policy Brief: Designing Responsible AI Technologies to Curb Disinformation Project](https://utexas.app.box.com/s/afle7fobyw130ef0yorrqcqmiyy9k0ez)** by Lukito, J., Kazanas, K., **Chen, B.**. October 26, 2022.
 
-## Teaching 
-- JMSC6113 Digital Journalism, Master of Journalism (MJ), JMSC, HKU
+## Teaching
+- **JMSC6113 Digital Journalism**, the Journalism and Media Studies Centre (JMSC), HKU.
 
 ## Resources
 - [2022 Digital Data Conference (Panel Chair), April 14-15, 2022](http://mddatacoop.org/dmd/)
 - [Digital Data Collection Workshop (Co-host), Feb 28, 2022; May 26, 2022](https://github.com/binchen19/digital-data-collection-workshop) [[repo]](https://github.com/binchen19/digital-data-collection-workshop)
 - [Intro to R and Tidyverse Workshop (Host), Sept 30, 2022](https://github.com/binchen19/intro2R-tidyverse-workshop) [[repo]](https://github.com/binchen19/intro2R-tidyverse-workshop)
 
-last update: Sept 6, 2024
+Last update: Sept 6, 2024
