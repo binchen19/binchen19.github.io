@@ -14,6 +14,7 @@ My research is primarily driven by quantitative and computational methods. My cu
 {: #publication}
 {% include_relative _includes/publications.md %}
 
+
 ## Public Writings
 - **[The State of Digital Media Data Research 2024](https://repositories.lib.utexas.edu/items/14a17341-7261-4e84-bafc-86d052047fdf)** by Brown, M. A., Lukito, J., Greenfield, J., **Chen, B.**, Graham, S., Shugars, S., Pruden, M. *MDDC*, 2024. 
 - **[The State of Digital Media Data Research 2023](https://mddatacoop.org/files/2023/State%20of%20Digital%20Media%20Data%20Research%202023.pdf)** by Lukito, J., Brown, M., Dahlke, R., Suk J., Yang, Y., Zhang, Y., **Chen, B.**, Kim, S. J., Soorholtz, K. *MDDC*, 2023. 
