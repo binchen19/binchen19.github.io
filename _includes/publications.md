@@ -65,8 +65,7 @@
         <em>Media and Communication</em> Volume 12, 2024, <a href="https://doi.org/10.17645/mac.7851">https://doi.org/10.17645/mac.7851</a>.
       </div>
       <div class="links">
-        <a href="https://journals.sagepub.com/doi/10.1177/20563051231196879" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
-        <a href="https://osf.io/m7ghc/" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Code</a>
+        <a href="https://www.cogitatiopress.com/mediaandcommunication/article/view/7851/3765" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
       </div>
     </div>
   </div>
