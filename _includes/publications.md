@@ -34,7 +34,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://journalqd.org/article/view/4299"> Battle for Inboxand Bucks: Comparing Email Fundraising Strategies of Donald Trump and Joe Biden in the 2020 U.S. Presidential Election </a></div>
     <div class="author"> <strong>Bin Chen</strong>, Porismita Borah, Ross Dahlke, Josephine Lukito</div>
-    <div class="periodical"><em> Journal of Quantitative Description: Digital Media </em> Volume 4, 2024, 10.51685/jqd.2024.012. </div>
+    <div class="periodical"><em> Journal of Quantitative Description: Digital Media </em> Volume 4, 2024, [10.51685/jqd.2024.012](https://doi.org/10.51685/jqd.2024.012). </div>
     <div class="links">
       <a href="https://journalqd.org/article/view/4299/4532" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">
 
