@@ -29,8 +29,8 @@ My research is primarily driven by quantitative and computational methods. My cu
 
 ## Contact
 
-**Address**: [EH207, Eliot Hall, The University of Hong Kong, Pok Fu Lam, Hong Kong](https://www.google.com/maps/place/Eliot+Hall,+The+University+of+Hong+Kong/@22.2825452,114.1372201,17z/data=!3m1!4b1!4m6!3m5!1s0x3403ff865c42fd11:0x8d46c105ff2c5e9b!8m2!3d22.2825403!4d114.139795!16s%2Fg%2F1q62mcp7b?entry=ttu&g_ep=EgoyMDI0MDkwMy4wIKXMDSoASAFQAw%3D%3D)
-**Tel**: +852 3917 4119
-**Email**: chenb(at)hku.hk
+- **Address**: [EH207, Eliot Hall, The University of Hong Kong, Pok Fu Lam, Hong Kong](https://www.google.com/maps/place/Eliot+Hall,+The+University+of+Hong+Kong/@22.2825452,114.1372201,17z/data=!3m1!4b1!4m6!3m5!1s0x3403ff865c42fd11:0x8d46c105ff2c5e9b!8m2!3d22.2825403!4d114.139795!16s%2Fg%2F1q62mcp7b?entry=ttu&g_ep=EgoyMDI0MDkwMy4wIKXMDSoASAFQAw%3D%3D)
+- **Tel**: +852 3917 4119
+- **Email**: [chenb(at)hku.hk]("mailto:chenb@hku.hk")
 
 Last update: Sept 6, 2024
