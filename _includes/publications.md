@@ -48,12 +48,10 @@
 
 <li>
   <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/sms_teaser.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SMS</abbr>
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://journals.sagepub.com/doi/10.1177/20563051231196879">Comparing the #StopTheSteal Movement across Multiple Platforms: Differentiating Discourse on Facebook, Twitter, and Parler </a></div>
     <div class="author"><strong>Bin Chen</strong>, Josephine Lukito, Gyo Hyun Koo</div>
