@@ -48,20 +48,24 @@
 
 <li>
   <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/sms_teaser.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">SMS</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://journals.sagepub.com/doi/10.1177/20563051231196879">Comparing the #StopTheSteal Movement across Multiple Platforms: Differentiating Discourse on Facebook, Twitter, and Parler </a></div>
-    <div class="author"><strong>Bin Chen</strong>, Josephine Lukito, Gyo Hyun Koo</div>
-    <div class="periodical"><em> Social Media + Society</em> Volume 9, Issue 3, September 2023, https://doi.org/10.1177/20563051231196879. </div>
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/sms_teaser.png" alt="Teaser image for SMS publication" class="teaser img-fluid z-depth-1">
+      <abbr class="badge">SMS</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://journals.sagepub.com/doi/10.1177/20563051231196879">Comparing the #StopTheSteal Movement across Multiple Platforms: Differentiating Discourse on Facebook, Twitter, and Parler</a>
+      </div>
+      <div class="author"><strong>Bin Chen</strong>, Josephine Lukito, Gyo Hyun Koo</div>
+      <div class="periodical">
+        <em>Social Media + Society</em> Volume 9, Issue 3, September 2023, <a href="https://doi.org/10.1177/20563051231196879">https://doi.org/10.1177/20563051231196879</a>.
+      </div>
       <div class="links">
-      <a href="https://journals.sagepub.com/doi/10.1177/20563051231196879" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://osf.io/m7ghc/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        <a href="https://journals.sagepub.com/doi/10.1177/20563051231196879" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
+        <a href="https://osf.io/m7ghc/" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Code</a>
       </div>
     </div>
-  <div>  
+  </div>
 </li>
 
 <li>
