@@ -37,10 +37,32 @@
       <div class="author"><strong>Bin Chen</strong>, Porismita Borah, Ross Dahlke, Josephine Lukito</div>
       <div class="periodical">
         <em>Journal of Quantitative Description: Digital Media</em>, Volume 4, 2024, 
-        <a href="https://doi.org/10.51685/jqd.2024.012">10.51685/jqd.2024.012</a>.
+        <a href="https://doi.org/10.51685/jqd.2024.012">https://doi.org/10.51685/jqd.2024.012</a>.
       </div>
       <div class="links">
         <a href="https://journalqd.org/article/view/4299/4532" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/mac_audio.jpg" alt="Teaser image for MaC publication" class="teaser img-fluid z-depth-1">
+      <abbr class="badge">SMS</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://www.cogitatiopress.com/mediaandcommunication/article/view/7851">Audio-as-Data Tools: Replicating Computational Data Processing</a>
+      </div>
+      <div class="author">Josephine Lukito, Jason Greenfield, Yunkang Yang, Ross Dahlke, Megan A Brown, Rebecca Lewis, <strong>Bin Chen</strong></div>
+      <div class="periodical">
+        <em>Media and Communication</em> Volume 12, 2024, <a href="https://doi.org/10.17645/mac.7851">https://doi.org/10.17645/mac.7851</a>.
+      </div>
+      <div class="links">
+        <a href="https://journals.sagepub.com/doi/10.1177/20563051231196879" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
+        <a href="https://osf.io/m7ghc/" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Code</a>
       </div>
     </div>
   </div>
