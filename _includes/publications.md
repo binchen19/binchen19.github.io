@@ -43,7 +43,6 @@
       </div>
       <div class="links">
         <a href="https://journalqd.org/article/view/4299/4532" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
-        <a href="https://journalqd.org/article/view/4299/4532" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Supplementary Material</a>
       </div>
     </div>
   </div>
