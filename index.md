@@ -2,7 +2,7 @@
 layout: homepage
 ---
 {: #about}
-Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/), the University of Hong Kong. My research interests include digital media and politics, computational social science, social and political implications of emerging technologies, and comparative media studies. Before joining HKU, I received my Ph.D. in Journalism and Media and M.S. in Statistics and Data Science from the University of Texas at Austin.
+Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/),[Faculty of Social Science](https://www.socsc.hku.hk/fw/), [the University of Hong Kong](https://hku.hk/). My research interests include digital media and politics, computational social science, social and political implications of emerging technologies, and comparative media studies. Before joining HKU, I received my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/) and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/).
 
 My research is primarily driven by quantitative and computational methods. My current research projects are categorized into three primary areas:
 
