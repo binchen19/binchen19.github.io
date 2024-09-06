@@ -2,6 +2,47 @@
 
 <div class="publications">
 <ol class="bibliography">
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/SMS_ATL.jpeg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">SMS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278"> It’s Not Just “8 Dead”: Examining News and Twitter’s Social Construction of the Atlanta Spa Shootings Through the Lens of Networked Gatekeeping and Affective Publics </a></div>
+    <div class="author"> Gyo Hyun Koo, <strong>Bin Chen</strong></div>
+    <div class="periodical"><em> Social Media + Society</em> Volume 10, Issue 3, 2024, https://doi.org/10.1177/20563051241269278. </div>
+    <div class="links">
+      <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">
+
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/jqd.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">SMS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://journalqd.org/article/view/4299"> Battle for Inboxand Bucks: Comparing Email Fundraising Strategies of Donald Trump and Joe Biden in the 2020 U.S. Presidential Election </a></div>
+    <div class="author"> <strong>Bin Chen</strong>, Porismita Borah, Ross Dahlke, Josephine Lukito</div>
+    <div class="periodical"><em> Journal of Quantitative Description: Digital Media </em> Volume 4, 2024, 10.51685/jqd.2024.012. </div>
+    <div class="links">
+      <a href="https://journalqd.org/article/view/4299/4532" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">
+
+    </div>
+  </div>
+</div>
+</li>
+
 <li>
 <div class="pub-row">
 
