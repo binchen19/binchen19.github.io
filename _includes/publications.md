@@ -16,7 +16,7 @@
       </div>
       <div class="author">Gyo Hyun Koo, <strong>Bin Chen</strong></div>
       <div class="periodical">
-        <em>Social Media + Society</em> Volume 10, Issue 3, 2024, <a href="https://doi.org/10.1177/20563051241269278">https://doi.org/10.1177/20563051241269278</a>.
+        <em>Social Media + Society</em>, Volume 10, Issue 3, 2024, <a href="https://doi.org/10.1177/20563051241269278">https://doi.org/10.1177/20563051241269278</a>.
       </div>
       <div class="links">
         <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -62,7 +62,7 @@
       </div>
       <div class="author">Josephine Lukito, Jason Greenfield, Yunkang Yang, Ross Dahlke, Megan A Brown, Rebecca Lewis, <strong>Bin Chen</strong></div>
       <div class="periodical">
-        <em>Media and Communication</em> Volume 12, 2024, <a href="https://doi.org/10.17645/mac.7851">https://doi.org/10.17645/mac.7851</a>.
+        <em>Media and Communication</em>, Volume 12, 2024, <a href="https://doi.org/10.17645/mac.7851">https://doi.org/10.17645/mac.7851</a>.
       </div>
       <div class="links">
         <a href="https://www.cogitatiopress.com/mediaandcommunication/article/view/7851/3765" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
@@ -84,7 +84,7 @@
       </div>
       <div class="author"><strong>Bin Chen</strong>, Josephine Lukito, Gyo Hyun Koo</div>
       <div class="periodical">
-        <em>Social Media + Society</em> Volume 9, Issue 3, September 2023, <a href="https://doi.org/10.1177/20563051231196879">https://doi.org/10.1177/20563051231196879</a>.
+        <em>Social Media + Society</em>, Volume 9, Issue 3, September 2023, <a href="https://doi.org/10.1177/20563051231196879">https://doi.org/10.1177/20563051231196879</a>.
       </div>
       <div class="links">
         <a href="https://journals.sagepub.com/doi/10.1177/20563051231196879" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
