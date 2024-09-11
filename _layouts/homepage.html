@@ -72,13 +72,20 @@
         <position style="font-size: 16px;color: black;">{{ site.position }}</position>
         <br>
         {% endif %}
-        {% if site.affiliation %}
+
+      {% if site.affiliation %}
         <a href="https://jmsc.hku.hk/" rel="noopener"><autocolor style="font-size: 16px;color: black;">{{ site.affiliation }}</autocolor></a>
         <br>
+          <!-- Additional hardcoded affiliation details -->
+        <p>Faculty of Social Sciences</p>
+        <br>
+        <p>The University of Hong Kong</p>
+        <br>
         {% endif %}
+
         {% if site.email %}
         <email style="font-size: 16px;color: black;">{{ site.email }}</email>
-        {% endif %}
+      {% endif %}
 
 
         <br>
