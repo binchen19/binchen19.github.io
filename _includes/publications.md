@@ -21,6 +21,8 @@
       </div>
       <div class="links">
         <a href="https://aclanthology.org/2024.emnlp-main.1067/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://aclanthology.org/attachments/2024.emnlp-main.1067.software.zip" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Code</a>
+        <a href="https://aclanthology.org/attachments/2024.emnlp-main.1067.data.zip" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Data</a>
       </div>
     </div>
   </div>
