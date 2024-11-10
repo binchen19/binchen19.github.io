@@ -3,6 +3,51 @@
 <div class="publications">
 <ol class="bibliography">
 
+<!-- EMNLP: Detecting Connective -->
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/emnlp-24.png" class="teaser img-fluid z-depth-1" alt="EMNLP Conference Image">
+      <abbr class="badge">EMNLP</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://aclanthology.org/2024.emnlp-main.1067.pdf">Comparing a BERT Classifier and a GPT Classifier for Detecting Connective Language Across Multiple Social Media</a>
+      </div>
+      <div class="author">Josephine Lukito, <strong>Bin Chen</strong>, Gina Masullo, Natalie Stroud</div>
+      <div class="periodical">
+        <em>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing</em>, pages 19140–19153, Miami, Florida, USA. Association for Computational Linguistics
+        <a href="https://aclanthology.org/2024.emnlp-main.1067/">https://aclanthology.org/2024.emnlp-main.1067/</a>.
+      </div>
+      <div class="links">
+        <a href="https://aclanthology.org/2024.emnlp-main.1067/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<!-- IJPP: China Rumor Debunking -->
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/ijpp-24.jpeg" class="teaser img-fluid z-depth-1" alt="IJPP Image">
+      <abbr class="badge">IJPP</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278">In Punishment We Trust: Analyzing Characteristics and Credibility of Rumor-Debunking Messages on Chinese Social Media</a>
+      </div>
+      <div class="author"><strong>Bin Chen</strong>, Shuning Lu</div>
+      <div class="periodical">
+        <em>The International Journal of Press/Politics</em>, Online First, 2024, <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278">https://doi.org/10.1177/20563051241269278</a>.
+      </div>
+      <div class="links">
+        <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
 <!-- SMS: Atlanta Shooting -->
 <li>
   <div class="pub-row">
