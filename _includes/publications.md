@@ -17,7 +17,7 @@
       <div class="author">Josephine Lukito, <strong>Bin Chen</strong>, Gina Masullo, Natalie Stroud</div>
       <div class="periodical">
         <em>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing</em>, pages 19140–19153, Miami, Florida, USA. Association for Computational Linguistics
-        <a href="https://aclanthology.org/2024.emnlp-main.1067/">https://aclanthology.org/2024.emnlp-main.1067/</a>.
+        <a href="https://aclanthology.org/2024.emnlp-main.1067/">https://aclanthology.org/2024.emnlp-main.1067</a>.
       </div>
       <div class="links">
         <a href="https://aclanthology.org/2024.emnlp-main.1067" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
