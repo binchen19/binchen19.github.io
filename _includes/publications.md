@@ -59,7 +59,7 @@
     </div>
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
       <div class="title">
-        <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278">It’s Not Just “8 Dead”: Examining News and Twitter’s Social Construction of the Atlanta Spa Shootings Through the Lens of Networked Gatekeeping and Affective Publics</a>
+        <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278">It’s Not Just “8 Dead”: Examining News and Twitter’s Social Construction of the Atlanta Spa Shootings Through the Lens of Networked Gatekeeping and Affective Publics </a>.
       </div>
       <div class="author">Gyo Hyun Koo, <strong>Bin Chen</strong></div>
       <div class="periodical">
