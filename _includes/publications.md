@@ -37,14 +37,14 @@
     </div>
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
       <div class="title">
-        <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278">In Punishment We Trust: Analyzing Characteristics and Credibility of Rumor-Debunking Messages on Chinese Social Media</a>
+        <a href="https://doi.org/10.1177/19401612241291811">In Punishment We Trust: Analyzing Characteristics and Credibility of Rumor-Debunking Messages on Chinese Social Media</a>
       </div>
       <div class="author"><strong>Bin Chen</strong>, Shuning Lu</div>
       <div class="periodical">
-        <em>The International Journal of Press/Politics</em>, Online First, 2024, <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278">https://doi.org/10.1177/20563051241269278</a>.
+        <em>The International Journal of Press/Politics</em>, Online First, 2024, https://doi.org/10.1177/19401612241291811</a>.
       </div>
       <div class="links">
-        <a href="https://journals.sagepub.com/doi/full/10.1177/20563051241269278" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://journals.sagepub.com/doi/full/10.1177/19401612241291811" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       </div>
     </div>
   </div>
