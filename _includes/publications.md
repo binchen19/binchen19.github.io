@@ -20,7 +20,7 @@
         <a href="https://aclanthology.org/2024.emnlp-main.1067/">https://aclanthology.org/2024.emnlp-main.1067/</a>.
       </div>
       <div class="links">
-        <a href="https://aclanthology.org/2024.emnlp-main.1067/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://aclanthology.org/2024.emnlp-main.1067" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <a href="https://aclanthology.org/attachments/2024.emnlp-main.1067.software.zip" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Code</a>
         <a href="https://aclanthology.org/attachments/2024.emnlp-main.1067.data.zip" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Data</a>
       </div>
@@ -41,7 +41,8 @@
       </div>
       <div class="author"><strong>Bin Chen</strong>, Shuning Lu</div>
       <div class="periodical">
-        <em>The International Journal of Press/Politics</em>, Online First, 2024, https://doi.org/10.1177/19401612241291811</a>.
+        <em>The International Journal of Press/Politics</em>, Online First, 2024, 
+        <a href="https://doi.org/10.1177/19401612241291811">https://doi.org/10.1177/19401612241291811</a>.
       </div>
       <div class="links">
         <a href="https://journals.sagepub.com/doi/full/10.1177/19401612241291811" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
