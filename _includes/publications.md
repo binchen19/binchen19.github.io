@@ -3,6 +3,29 @@
 <div class="publications">
 <ol class="bibliography">
 
+<!-- JITP: Far-right Conspiracies -->
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/jitp-25.jpg" class="teaser img-fluid z-depth-1" alt="JITP Image">
+      <abbr class="badge">JITP</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://doi.org/10.1080/19331681.2025.2468948">Far-right conspiracies and online engagement: How #StopTheSteal leveraged moral appeals, group identity, and #BlackLivesMatter to capture audience attention on Parler</a>
+      </div>
+      <div class="author">G. H. Koo, <strong>Bin Chen</strong></div>
+      <div class="periodical">
+        <em>Journal of Information Technology & Politics</em>, 2025, pages 1–15,  
+        <a href="https://doi.org/10.1080/19331681.2025.2468948">https://doi.org/10.1080/19331681.2025.2468948</a>.
+      </div>
+      <div class="links">
+        <a href="https://doi.org/10.1080/19331681.2025.2468948" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
 <!-- EMNLP: Detecting Connective -->
 <li>
   <div class="pub-row">
