@@ -14,7 +14,7 @@
       <div class="title">
         <a href="https://doi.org/10.1080/19331681.2025.2468948">Far-right conspiracies and online engagement: How #StopTheSteal leveraged moral appeals, group identity, and #BlackLivesMatter to capture audience attention on Parler</a>
       </div>
-      <div class="author">G. H. Koo, <strong>Bin Chen</strong></div>
+      <div class="author">Gyo Hyun Koo, <strong>Bin Chen</strong></div>
       <div class="periodical">
         <em>Journal of Information Technology & Politics</em>, 2025, pages 1–15,  
         <a href="https://doi.org/10.1080/19331681.2025.2468948">https://doi.org/10.1080/19331681.2025.2468948</a>.
