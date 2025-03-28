@@ -4,11 +4,7 @@ layout: homepage
 {: #about}
 Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/), [Faculty of Social Science](https://www.socsc.hku.hk/fw/), [the University of Hong Kong](https://hku.hk/). My research interests include digital media and politics, computational social science, social and political implications of emerging technologies, and comparative media studies. Before joining HKU, I received my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/) and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/).
 
-My research is primarily driven by quantitative and computational methods. My current research projects are categorized into three primary areas:
-
-- **Cross-Platform Information Flow and Influence**: In this strand, I focus on the dynamics of information within the hybrid media system—including news media and social media. I explore how information flows from one platform to another and the strategic use of various digital platforms by activists, politicians, and media organizations.
-- **Computational Social Science**: My research is often driven by cutting-edge computational tools, including multimodal data analysis (image-as-data, radio-as-data). I am also working on inferential network analysis to explore dynamics in organizational behaviors, such as OSINT collaboration, mobilization, and information governance networks.
-- **Artificial Intelligence in Journalism and Media Studies**: I investigate the social and political implications of recent generative AI in journalism and media studies. I am particularly interested in how different generative AI technologies play distinct roles and their effects on users' perceptions, attitudes, and behaviors.
+At HKU, I teach undergraduate and postgraduate courses on Data Journalism, where students learn data wrangling, analysis and visualization in journalism using *R*. My textbook, [Data Journalism with R](https://binchen19.github.io/djr/), is available online and continuously updated.
 
 {: #publication}
 {% include_relative _includes/publications.md %}
@@ -20,11 +16,9 @@ My research is primarily driven by quantitative and computational methods. My cu
 - **[Policy Brief: Designing Responsible AI Technologies to Curb Disinformation Project](https://utexas.app.box.com/s/afle7fobyw130ef0yorrqcqmiyy9k0ez)** by Lukito, J., Kazanas, K., **Chen, B.**. October 26, 2022.
 
 ## Teaching
-### Courses  
 - **JMSC6113**: Data Journalism  
-- **JMSC1003**: Fundamentals of Data Journalism  
-### Course Materials  
-📖 [**Data Journalism with R**](https://binchen19.github.io/djr/)  
+- **JMSC1003**: Fundamentals of Data Journalism
+  
 
 ## Service
 - [2022 Digital Data Conference (Panel Chair), April 14-15, 2022](http://mddatacoop.org/dmd/)
