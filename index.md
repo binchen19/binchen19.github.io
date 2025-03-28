@@ -4,7 +4,7 @@ layout: homepage
 {: #about}
 Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/), [Faculty of Social Science](https://www.socsc.hku.hk/fw/), [the University of Hong Kong](https://hku.hk/). My research interests include digital media and politics, computational social science, social and political implications of emerging technologies, and comparative media studies. Before joining HKU, I received my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/) and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/).
 
-At HKU, I teach undergraduate and postgraduate courses on Data Journalism, where students learn data wrangling, analysis and visualization in journalism using R. My textbook, [**Data Journalism with R**](https://binchen19.github.io/djr/), is available online and continuously updated.
+At HKU, I teach undergraduate and postgraduate courses on Data Journalism, where students learn data wrangling, analysis and visualization in journalism using R. My textbook, **[Data Journalism with R](https://binchen19.github.io/djr/)**, is available online and continuously updated.
 
 {: #publication}
 {% include_relative _includes/publications.md %}
