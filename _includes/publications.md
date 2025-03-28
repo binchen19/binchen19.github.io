@@ -3,6 +3,29 @@
 <div class="publications">
 <ol class="bibliography">
 
+<!-- Digital Journalism: Buzz Across Borders -->
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/dj-2025.jpg" class="teaser img-fluid z-depth-1" alt="Digital Journalism Image">
+      <abbr class="badge">Digital Journalism</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://doi.org/10.1080/21670811.2025.2483737">Buzz Across Borders: Analyzing the Global and Local Dynamics Shaping the ChatGPT Media Hype in China</a>
+      </div>
+      <div class="author"><strong>Bin Chen</strong>, Anfan Chen, & Shuning Lu</div>
+      <div class="periodical">
+        <em>Digital Journalism</em>, 2025, pages 1–20,  
+        <a href="https://doi.org/10.1080/21670811.2025.2483737">https://doi.org/10.1080/21670811.2025.2483737</a>.
+      </div>
+      <div class="links">
+        <a href="https://doi.org/10.1080/21670811.2025.2483737" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
 <!-- JITP: Far-right Conspiracies -->
 <li>
   <div class="pub-row">
