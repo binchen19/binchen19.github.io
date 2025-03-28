@@ -20,11 +20,11 @@ My research is primarily driven by quantitative and computational methods. My cu
 - **[Policy Brief: Designing Responsible AI Technologies to Curb Disinformation Project](https://utexas.app.box.com/s/afle7fobyw130ef0yorrqcqmiyy9k0ez)** by Lukito, J., Kazanas, K., **Chen, B.**. October 26, 2022.
 
 ## Teaching
-### Courses
-- JMSC6113 Data Journalism
-- JMSC1003 Fundamentals of Data Journalism
-### Materials
-[Data Journalism with R](https://binchen19.github.io/djr/)
+### Courses  
+- **JMSC6113**: Data Journalism  
+- **JMSC1003**: Fundamentals of Data Journalism  
+### Course Materials  
+📖 [**Data Journalism with R**](https://binchen19.github.io/djr/)  
 
 ## Service
 - [2022 Digital Data Conference (Panel Chair), April 14-15, 2022](http://mddatacoop.org/dmd/)
