@@ -8,7 +8,7 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
       <img src="assets/img/dj-2025.jpg" class="teaser img-fluid z-depth-1" alt="Digital Journalism Image">
-      <abbr class="badge">Digital Journalism</abbr>
+      <abbr class="badge">DJ</abbr>
     </div>
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
       <div class="title">
