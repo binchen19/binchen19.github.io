@@ -20,7 +20,7 @@
         <a href="https://doi.org/10.1080/21670811.2025.2483737">https://doi.org/10.1080/21670811.2025.2483737</a>.
       </div>
       <div class="links">
-        <a href="https://doi.org/10.1080/21670811.2025.2483737" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="assets/pdfs/chen-et-al-dj-2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       </div>
     </div>
   </div>
