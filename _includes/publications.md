@@ -20,7 +20,7 @@
         <a href="https://doi.org/10.1080/21670811.2025.2483737">https://doi.org/10.1080/21670811.2025.2483737</a>.
       </div>
       <div class="links">
-        <a href="https://raw.githubusercontent.com/binchen19/binchen19.github.io/main/assets/pdfs/chen-et-al-dj-2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="assets/pdfs/chen-et-al-dj-2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       </div>
     </div>
   </div>
@@ -43,7 +43,7 @@
         <a href="https://doi.org/10.1080/19331681.2025.2468948">https://doi.org/10.1080/19331681.2025.2468948</a>.
       </div>
       <div class="links">
-        <a href="https://raw.githubusercontent.com/binchen19/binchen19.github.io/main/assets/pdfs/koo-chen-jitp-2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="assets/pdfs/koo-chen-jitp-2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       </div>
     </div>
   </div>
@@ -91,7 +91,7 @@
         <a href="https://doi.org/10.1177/19401612241291811">https://doi.org/10.1177/19401612241291811</a>.
       </div>
       <div class="links">
-        <a href="https://raw.githubusercontent.com/binchen19/binchen19.github.io/main/assets/pdfs/chen-lu-ijpp-2024.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="assets/pdfs/chen-lu-ijpp-2024.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       </div>
     </div>
   </div>
@@ -204,7 +204,7 @@
         <em>Journal of Communication</em>, Volume 72, Issue 6, December 2022, Pages 633–646, <a href="https://doi.org/10.1093/joc/jqac030">https://doi.org/10.1093/joc/jqac030</a>.
       </div>
       <div class="links">
-        <a href="https://raw.githubusercontent.com/binchen19/binchen19.github.io/main/assets/pdfs/reese-chen-joc-2022.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="assets/pdfs/reese-chen-joc-2022.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <a href="https://osf.io/69zbp/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       </div>
     </div>
