@@ -4,8 +4,7 @@ layout: homepage
 {: #about}
 Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/), [Faculty of Social Science](https://www.socsc.hku.hk/fw/), [the University of Hong Kong](https://hku.hk/). My research interests include digital media and politics, computational social science, social and political implications of emerging technologies, and comparative media studies. Before joining HKU, I received my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/) and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/).
 
-## To Prosepective Student:
-Prospective applicants must apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system) and adhere to the [JMSC’s official guidelines](https://jmsc.hku.hk/2014/04/master-philosophy-doctor-philosophy-journalism-admissions/). 
+**To Prosepective Student**: Welcome to apply for JMSC's Mphil/PhD program. Prospective applicants must apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system) and adhere to the [JMSC’s official guidelines](https://jmsc.hku.hk/2014/04/master-philosophy-doctor-philosophy-journalism-admissions/).
 
 - ⚠️ Applications submitted through or facilitated by study-abroad agencies, once identified, will **NOT** be considered. 
 - ⚠️ I am not on any social media platforms, any promotions/ads not published by me are **UNAUTHORIZED**. 
