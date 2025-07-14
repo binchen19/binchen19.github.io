@@ -8,11 +8,8 @@ Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](htt
 I am currently hiring two part-time Research Assistants (hourly paid) in computational social science. If you’re interested, please email me your CV.
 </p>
 
-<p style="color:#208534;">
-**Mphil/PhD**: Prospective applicants must apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system) and adhere to the [JMSC’s official guidelines](https://jmsc.hku.hk/2014/04/master-philosophy-doctor-philosophy-journalism-admissions/).
+**Mphil/PhD Applicants**: Please refer to the [JMSC’s official guidelines](https://jmsc.hku.hk/2014/04/master-philosophy-doctor-philosophy-journalism-admissions/), and apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system).
 
-- ⚠️ Applications submitted through or facilitated by study-abroad agencies, once identified, will **NOT** be considered. I am not on any social media platforms, any promotions/ads not published by me are unauthorized. If you encounter posts falsely attributed to me (e.g., on Xiaohongshu/小红书), please report theme immediately. Thank you!
-</p>
 
 {: #publication}
 {% include_relative _includes/publications.md %}
