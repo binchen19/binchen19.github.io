@@ -21,9 +21,8 @@ Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](htt
 - **[Policy Brief: Designing Responsible AI Technologies to Curb Disinformation Project](https://utexas.app.box.com/s/afle7fobyw130ef0yorrqcqmiyy9k0ez)** by Lukito, J., Kazanas, K., **Chen, B.**. October 26, 2022.
 
 ## Teaching
-- **JMSC6113**: Data Journalism  
+- **JMSC6113**: Data Journalism   
 - **JMSC1003**: Fundamentals of Data Journalism
-  
 
 ## Service
 - [2022 Digital Data Conference (Panel Chair), April 14-15, 2022](http://mddatacoop.org/dmd/)
