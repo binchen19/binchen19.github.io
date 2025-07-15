@@ -9,7 +9,7 @@ Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](htt
 </p>
 
 🎓 **Mphil/PhD Applicants**: Please refer to the [JMSC’s official guidelines](https://jmsc.hku.hk/2014/04/master-philosophy-doctor-philosophy-journalism-admissions/), and apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system). 
-- ⚠️ Any promotions by third-party agencies (e.g., 留学中介) on social media platforms (e.g., 小红书) are **unauthorized**. Applications assisted by these agencies will **NOT** e considered.
+- ⚠️ Any promotions by third-party agencies (e.g., 留学中介) on social media platforms (e.g., 小红书) are **unauthorized**. Applications assisted by these agencies will **NOT** be considered.
 
 
 {: #publication}
