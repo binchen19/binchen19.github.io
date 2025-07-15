@@ -5,10 +5,11 @@ layout: homepage
 Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/), [Faculty of Social Science](https://www.socsc.hku.hk/fw/), [the University of Hong Kong](https://hku.hk/). My research interests include digital media and politics, computational social science, social and political implications of emerging technologies, and comparative media studies. Before joining HKU, I received my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/) and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/).
 
 <p style="color:#cc3d00;">
-I am currently hiring two part-time Research Assistants (hourly paid) in computational social science. If you’re interested, please email me your CV.
+🙌 I’m currently hiring two part-time Research Assistants for projects on AI and news. Strong skills in statistics and data science (Python or R) are required. If you’re interested, please email me your CV along with a brief statement of purpose.
 </p>
 
-**Mphil/PhD Applicants**: Please refer to the [JMSC’s official guidelines](https://jmsc.hku.hk/2014/04/master-philosophy-doctor-philosophy-journalism-admissions/), and apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system).
+🎓 **Mphil/PhD Applicants**: Please refer to the [JMSC’s official guidelines](https://jmsc.hku.hk/2014/04/master-philosophy-doctor-philosophy-journalism-admissions/), and apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system). 
+- ⚠️ Any promotions by third-party agencies on social media platforms (e.g., 小红书) are **unauthorized** - Applications assisted by third-party agencies, once identified, will **NOT** be considered.
 
 
 {: #publication}
