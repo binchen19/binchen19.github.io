@@ -39,4 +39,5 @@ Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](htt
 - **Tel**: +852 3917 4119
 - **Email**: chenb(at)hku.hk
 
-Last update: July 16, 2025
+
+_Last update: {{ site.time | date: "%B %d, %Y" }}_
