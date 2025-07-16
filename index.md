@@ -28,10 +28,11 @@ Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](htt
 📘 My open-source textbook, <a href="https://binchen19.github.io/djr/" target="_blank">Data Journalism with R</a>, is available online. It’s a work in progress and constantly evolving — if you have any comments, suggestions, or spot anything that could be improved, feel free to drop me an email.
 </p>
 
-## Service
-- [2022 Digital Data Conference (Panel Chair), April 14-15, 2022](http://mddatacoop.org/dmd/)
-- [Digital Data Collection Workshop (Co-host), Feb 28, 2022; May 26, 2022](https://github.com/binchen19/digital-data-collection-workshop) [[repo]](https://github.com/binchen19/digital-data-collection-workshop)
-- [Intro to R and Tidyverse Workshop (Host), Sept 30, 2022](https://github.com/binchen19/intro2R-tidyverse-workshop) [[repo]](https://github.com/binchen19/intro2R-tidyverse-workshop)
+## Grants
+- Early Career Scheme (ECS), Research Grants Council (RGC), Hong Kong SAR Government, 2025.  
+- Teaching Development Grant, The University of Hong Kong, 2025.  
+- Seed Fund for Basic Research, The University of Hong Kong, 2024.
+
 
 ## Contact
 - **Address**: [EH207, Eliot Hall, The University of Hong Kong, Pok Fu Lam, Hong Kong](https://www.google.com/maps/place/Eliot+Hall,+The+University+of+Hong+Kong/@22.2825452,114.1372201,17z/data=!3m1!4b1!4m6!3m5!1s0x3403ff865c42fd11:0x8d46c105ff2c5e9b!8m2!3d22.2825403!4d114.139795!16s%2Fg%2F1q62mcp7b?entry=ttu&g_ep=EgoyMDI0MDkwMy4wIKXMDSoASAFQAw%3D%3D)
