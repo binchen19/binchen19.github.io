@@ -25,7 +25,7 @@ Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](htt
 - **JMSC1003**: Fundamentals of Data Journalism
 
 <p style="color:#cc3d00;">
-📘 My open-source textbook, <a href="https://binchen19.github.io/djr/" target="_blank">Data Journalism with R</a>, is available online. It’s a work in progress and constantly evolving — if you have any comments, suggestions, or spot anything that could be improved, feel free to drop me an email.
+✨ My open-source textbook, <a href="https://binchen19.github.io/djr/" target="_blank">Data Journalism with R</a>, is available online. It’s a work in progress and constantly evolving — if you have any comments, suggestions, or spot anything that could be improved, feel free to drop me an email.
 </p>
 
 ## Grants
