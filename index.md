@@ -2,7 +2,7 @@
 layout: homepage
 ---
 {: #about}
-Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/), [Faculty of Social Science](https://www.socsc.hku.hk/fw/), [the University of Hong Kong](https://hku.hk/). My research explores _digital platforms and politics_, _AI and media studies_, _computational social science_, and _comparative studies_. Before joining HKU, I received my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/) and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/).
+Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/), [Faculty of Social Science](https://www.socsc.hku.hk/fw/), [the University of Hong Kong](https://hku.hk/). My research explores digital platforms and politics, AI and media studies, computational social science, and comparative communication studies. Before joining HKU, I received my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/) and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/).
 
 <p style="color:#cc3d00;">
 🙌 I’m currently hiring two part-time Research Assistants in Computational Social Science. Strong skills in statistics and data science (Python or R) are required. If you’re interested, please email me your CV along with a brief statement of purpose.
