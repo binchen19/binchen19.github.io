@@ -24,7 +24,9 @@ Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](htt
 - **JMSC6113**: Data Journalism  
 - **JMSC1003**: Fundamentals of Data Journalism
 
-> <span style="color:#cc3d00;">📘 My open-source textbook, <a href="https://binchen19.github.io/djr/" target="_blank">Data Journalism with R</a>, is available online. It’s a work in progress and constantly evolving — if you have any comments, suggestions, or spot anything that could be improved, drop me an email!</span>
+<p style="color:#cc3d00;">
+📘 My open-source textbook, <a href="https://binchen19.github.io/djr/" target="_blank">Data Journalism with R</a>, is available online. It’s a work in progress and constantly evolving — if you have any comments, suggestions, or spot anything that could be improved, feel free to drop me an email.
+</p>
 
 ## Service
 - [2022 Digital Data Conference (Panel Chair), April 14-15, 2022](http://mddatacoop.org/dmd/)
