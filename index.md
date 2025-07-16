@@ -5,7 +5,7 @@ layout: homepage
 Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/), [Faculty of Social Science](https://www.socsc.hku.hk/fw/), [the University of Hong Kong](https://hku.hk/). My research explores digital platforms and politics, AI and media studies, computational social science, and comparative communication studies. Before joining HKU, I received my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/) and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/).
 
 <p style="color:#cc3d00;">
-🙌 I’m currently hiring two part-time Research Assistants in Computational Social Science. Strong skills in statistics and data science (Python or R) are required. If you’re interested, please email me your CV along with a brief statement of purpose.
+🙌 I’m currently hiring two part-time Research Assistants in Computational Social Science. Strong skills in statistics and data science (Python or R) are required. If you’re interested, please <a href="mailto:chenb@hku.hk">email me</a> your CV along with a brief statement of purpose.
 </p>
 
 🎓 **Mphil/PhD Applicants**: Please refer to the [JMSC’s official guidelines](https://jmsc.hku.hk/2014/04/master-philosophy-doctor-philosophy-journalism-admissions/), and apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system). ⚠️ Any promotions by third-party agencies (e.g., 留学中介) on social media platforms (e.g., 小红书) are **unauthorized**. Applications assisted by these agencies will **NOT** be considered.
@@ -24,6 +24,10 @@ Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](htt
 - **JMSC6113**: Data Journalism   
 - **JMSC1003**: Fundamentals of Data Journalism
 
+<p style="color:#cc3d00;">
+📘 My open-source textbook, <a href="https://binchen19.github.io/djr/" target="_blank">Data Journalism with R</a>, is freely available. It’s a work in progress and constantly evolving — I’d love to hear your thoughts! If you have any comments, suggestions, or spot something to improve, feel free to <a href="mailto:chenb@hku.hk">drop me an email</a>.
+</p>
+
 ## Service
 - [2022 Digital Data Conference (Panel Chair), April 14-15, 2022](http://mddatacoop.org/dmd/)
 - [Digital Data Collection Workshop (Co-host), Feb 28, 2022; May 26, 2022](https://github.com/binchen19/digital-data-collection-workshop) [[repo]](https://github.com/binchen19/digital-data-collection-workshop)
@@ -34,4 +38,4 @@ Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](htt
 - **Tel**: +852 3917 4119
 - **Email**: chenb(at)hku.hk
 
-Last update: Nov 10, 2024
+Last update: July 16, 2025
