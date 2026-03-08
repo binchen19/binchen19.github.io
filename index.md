@@ -2,13 +2,13 @@
 layout: homepage
 ---
 {: #about}
-Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](https://jmsc.hku.hk/), [Faculty of Social Science](https://www.socsc.hku.hk/fw/), [the University of Hong Kong](https://hku.hk/). My research explores digital platforms and politics, AI and media studies, computational social science, and comparative communication studies. Before joining HKU, I received my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/) and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/).
+Hi! I am an Assistant Professor at the [School of Future Media](https://hkums.hku.hk/), [the University of Hong Kong](https://hku.hk/). My research explores digital platforms and politics, AI and media studies, computational social science, and comparative communication studies. Before joining HKU, I received my Ph.D. in [Journalism and Media](https://journalism.utexas.edu/) and M.S. in [Statistics and Data Science](https://stat.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/).
 
 <p style="color:#cc3d00;">
 🙌 I’m currently hiring two part-time Research Assistants in Computational Social Science. Strong skills in statistics and data science (Python or R) are required. If you’re interested, please email me your CV along with a brief statement of purpose.
 </p>
 
-🎓 **Mphil/PhD Applicants**: Please refer to the [JMSC’s official guidelines](https://jmsc.hku.hk/2014/04/master-philosophy-doctor-philosophy-journalism-admissions/), and apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system). ⚠️ Any promotions by third-party agencies (e.g., 留学中介) on social media platforms (e.g., 小红书) are **unauthorized**. Applications assisted by these agencies will **NOT** be considered.
+🎓 **PhD Applicants**: Please refer to the [JMSC’s official guidelines](https://jmsc.hku.hk/2014/04/master-philosophy-doctor-philosophy-journalism-admissions/), and apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system). ⚠️ Any promotions by third-party agencies (e.g., 留学中介) on social media platforms (e.g., 小红书) are **unauthorized**. Applications assisted by these agencies will **NOT** be considered.
 
 
 {: #publication}
@@ -29,9 +29,9 @@ Hi! I am an Assistant Professor at the [Journalism and Media Studies Centre](htt
 </p>
 
 ## Grants
-- Early Career Scheme (ECS), Research Grants Council (RGC), Hong Kong SAR Government, 2025.  
-- Teaching Development Grant, The University of Hong Kong, 2025.  
-- Seed Fund for Basic Research, The University of Hong Kong, 2024.
+- Early Career Scheme (ECS), Research Grants Council (RGC), Hong Kong SAR Government, 2025-2027.  
+- Teaching Development Grant, The University of Hong Kong, 2025-2026.  
+- Seed Fund for Basic Research, The University of Hong Kong, 2024-2026.
 
 
 ## Contact
