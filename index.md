@@ -8,8 +8,9 @@ Hi! I am an Assistant Professor at the [School of Future Media](https://hkums.hk
 🙌 I’m currently hiring Research Assistants in Computational Social Science. Strong skills in statistics and data science (Python or R) are required. If you’re interested, please email me your CV along with a brief statement of purpose.
 </p>
 
-🎓 **PhD Applicants**: Please refer to the [SFM’s official guidelines](https://hkums.hku.hk/master-of-philosophy-doctor-of-philosophy-in-journalism/), and apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system). ⚠️ Any promotions by third-party agencies on social media platforms (e.g., 小红书) are **unauthorized**. Applications assisted by these agencies will **NOT** be considered.
+🎓 **PhD Applicants**: Please refer to the [SFM’s official guidelines](https://hkums.hku.hk/master-of-philosophy-doctor-of-philosophy-in-journalism/), and apply directly through [HKU’s official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system). 
 
+⚠️ 如在其他平台（如小红书）看到关于我招生的信息，请注意那并非本人发布。各平台中介请勿未经授权转载本页内容。 有意向的同学欢迎直接发邮件联系我获取准确信息 😊
 
 {: #publication}
 {% include_relative _includes/publications.md %}
