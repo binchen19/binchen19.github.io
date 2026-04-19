@@ -1,7 +1,8 @@
+@charset "UTF-8";
 /* ==========================================================
    minimal-light.scss — REDESIGNED
    Academic / Professor aesthetic for Bin Chen's site
-   
+
    CHANGES SUMMARY:
    1. Font: Roboto → Source Sans 3 (body) + Crimson Pro (display)
    2. Colors: pure black/white → warm palette with academic navy
@@ -13,57 +14,52 @@
    8. Improved: dark mode with warmer tones
    9. Improved: mobile responsiveness
    ========================================================== */
-
 /* --- Google Fonts --- */
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap");
 /* --- CSS Custom Properties (easy to tweak later) --- */
 :root {
-  --color-bg:        #FAFAF7;       /* warm off-white */
-  --color-surface:   #FFFFFF;
-  --color-text:      #2c2c2c;       /* softer than pure black */
+  --color-bg: #FAFAF7; /* warm off-white */
+  --color-surface: #FFFFFF;
+  --color-text: #2c2c2c; /* softer than pure black */
   --color-text-muted:#5a5a5a;
-  --color-heading:   #1a2744;       /* deep academic navy */
-  --color-accent:    #8B1A1A;       /* academic crimson */
+  --color-heading: #1a2744; /* deep academic navy */
+  --color-accent: #8B1A1A; /* academic crimson */
   --color-accent-hover: #a82828;
-  --color-link:      #1a2744;
-  --color-border:    #e8e5df;
-  --color-callout-bg:   #f0f4f8;
+  --color-link: #1a2744;
+  --color-border: #e8e5df;
+  --color-callout-bg: #f0f4f8;
   --color-callout-border: #3d6ea5;
   --color-highlight-bg: #fff8f0;
   --color-highlight-border: #cc6d00;
-  --font-display:    'Crimson Pro', Georgia, serif;
-  --font-body:       'Source Sans 3', -apple-system, sans-serif;
-  --font-mono:       'SFMono-Regular', Consolas, monospace;
-  --content-width:   750px;
-  --sidebar-width:   232px;
+  --font-display: 'Crimson Pro', Georgia, serif;
+  --font-body: 'Source Sans 3', -apple-system, sans-serif;
+  --font-mono: 'SFMono-Regular', Consolas, monospace;
+  --content-width: 750px;
+  --sidebar-width: 232px;
 }
 
 /* --- Dark Mode --- */
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-bg:        #1a1b26;
-    --color-surface:   #22232e;
-    --color-text:      #d4d4d4;
+    --color-bg: #1a1b26;
+    --color-surface: #22232e;
+    --color-text: #d4d4d4;
     --color-text-muted:#9a9a9a;
-    --color-heading:   #7eb8e0;
-    --color-accent:    #e8766a;
+    --color-heading: #7eb8e0;
+    --color-accent: #e8766a;
     --color-accent-hover: #f09080;
-    --color-link:      #7eb8e0;
-    --color-border:    #333445;
-    --color-callout-bg:   #1e2535;
+    --color-link: #7eb8e0;
+    --color-border: #333445;
+    --color-callout-bg: #1e2535;
     --color-callout-border: #4a7fb5;
     --color-highlight-bg: #2a2218;
     --color-highlight-border: #d4883a;
   }
 }
-
-
 /* ======================
    BASE STYLES
    ====================== */
-
 body {
   background-color: var(--color-bg);
   padding: 0;
@@ -75,11 +71,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-
 /* ======================
    TYPOGRAPHY
    ====================== */
-
 h1 {
   font-family: var(--font-display);
   font-weight: 500;
@@ -111,7 +105,6 @@ h3, h4, h5, h6 {
 }
 
 /* No need for separate dark mode overrides — CSS vars handle it */
-
 p, ul, ol, table, pre, dl {
   margin: 0 0 20px;
 }
@@ -125,11 +118,9 @@ strong {
   font-weight: 600;
 }
 
-
 /* ======================
    LINKS
    ====================== */
-
 a {
   color: var(--color-accent);
   text-decoration: none;
@@ -147,11 +138,9 @@ a small {
   display: block;
 }
 
-
 /* ======================
    LAYOUT
    ====================== */
-
 .wrapper {
   position: relative;
   width: 1060px;
@@ -163,14 +152,14 @@ header {
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
-  padding-top: 4.0em;
+  padding-top: 4em;
   text-align: center;
 }
 
 section {
   width: var(--content-width);
   float: right;
-  padding-top: 4.0em;
+  padding-top: 4em;
   padding-bottom: 50px;
 }
 
@@ -183,18 +172,14 @@ footer {
   text-align: center;
 }
 
-
 /* ======================
    NAVIGATION BAR (updated)
    ====================== */
 /* Note: also defined in homepage.html <style> — 
    this version takes over if you remove the inline <style> */
-
-
 /* ======================
    AVATAR & HEADER
    ====================== */
-
 .image {
   border-radius: 0.35em;
   border: 0;
@@ -205,7 +190,7 @@ footer {
 .image:before {
   transition: opacity 0.2s ease-in-out;
   border-radius: 0.35em;
-  content: '';
+  content: "";
   display: block;
   height: 100%;
   left: 0;
@@ -224,18 +209,18 @@ footer {
 }
 
 .image.avatar img {
-  border-radius: 50%;         /* CHANGED: circular avatar looks more polished */
+  border-radius: 50%; /* CHANGED: circular avatar looks more polished */
   width: 80%;
   height: 80%;
   padding: 0px;
   object-fit: cover;
   /* subtle shadow for depth */
-  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
 }
 
 #header .image.avatar {
   margin: 0 0 1em 0;
-  width: 8.00em;
+  width: 8em;
 }
 
 /* Header text — position, affiliation, email */
@@ -255,11 +240,9 @@ papertitle {
   color: var(--color-text);
 }
 
-
 /* ======================
    SOCIAL ICONS
    ====================== */
-
 .social-icons a {
   display: inline-block;
   height: 2.4rem;
@@ -284,14 +267,12 @@ papertitle {
   transform: scale(1.15);
 }
 
-
 /* ======================
    PUBLICATION LIST
    ====================== */
-
 .pub-row {
   display: flex;
-  align-items: flex-start;  /* CHANGED: top-align for better reading */
+  align-items: flex-start; /* CHANGED: top-align for better reading */
   gap: 16px;
   padding: 16px 0;
   border-bottom: 1px solid var(--color-border);
@@ -339,12 +320,9 @@ papertitle {
     color: #b89cdf;
   }
 }
-
-
 /* ======================
    CALLOUT BOXES (NEW)
    ====================== */
-
 /* Info callout — for hiring, announcements */
 .callout-box {
   background: var(--color-callout-bg);
@@ -377,11 +355,9 @@ papertitle {
   color: var(--color-text);
 }
 
-
 /* ======================
    MISC ELEMENTS
    ====================== */
-
 blockquote {
   border-left: 2px solid var(--color-border);
   margin: 0;
@@ -478,91 +454,74 @@ darkonly {
     visibility: visible;
   }
 }
-
 /* Last-updated line at page bottom */
 section > p:last-child > em {
   font-size: 13px;
   color: var(--color-text-muted);
 }
 
-
 /* ======================
    RESPONSIVE — TABLET
    ====================== */
-
 @media print, screen and (max-width: 960px) {
   div.wrapper {
     width: auto;
     margin: 0;
   }
-
   header, section, footer {
     float: none;
     position: static;
     width: auto;
   }
-
   header {
     padding: 20px;
     text-align: center;
   }
-
   section {
     border-top: 1px solid var(--color-border);
     padding: 20px;
     margin: 0 0 20px;
   }
-
   header a small {
     display: inline;
   }
-
   .image.avatar img {
     border-radius: 50%;
     width: 120px;
     height: 120px;
     padding: 0;
   }
-
   .pub-row {
     display: flex;
     align-items: flex-start;
   }
 }
-
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap: break-word;
     padding: 15px;
   }
-
   header {
     padding: 0 0 20px;
   }
-
   pre, code {
     word-wrap: normal;
   }
-
   .pub-row {
     display: flex;
     align-items: flex-start;
   }
 }
-
 /* ======================
    RESPONSIVE — MOBILE
    ====================== */
-
 @media print, screen and (max-width: 480px) {
   body {
     padding: 15px;
   }
-
   .pub-row {
     display: block;
   }
-
   .image.avatar img {
     border-radius: 50%;
     width: 95px;
@@ -570,7 +529,6 @@ section > p:last-child > em {
     padding: 0;
   }
 }
-
 @media print {
   body {
     padding: 0.4in;
@@ -578,18 +536,15 @@ section > p:last-child > em {
     color: #444;
   }
 }
-
-
 /* ======================
    ICON BUTTONS (kept for compat)
    ====================== */
-
 .icon-button {
   background-color: var(--color-surface);
   border-radius: 3.6rem;
   cursor: pointer;
   display: inline-block;
-  font-size: 2.0rem;
+  font-size: 2rem;
   height: 3.6rem;
   line-height: 3.6rem;
   margin: 0 5px;
@@ -630,3 +585,5 @@ section > p:last-child > em {
   width: 3.6rem;
   z-index: 10;
 }
+
+/*# sourceMappingURL=style.css.map */
