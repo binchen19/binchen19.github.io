@@ -25,9 +25,10 @@
   --color-text:      #2c2c2c;       /* softer than pure black */
   --color-text-muted:#5a5a5a;
   --color-heading:   #1a2744;       /* deep academic navy */
-  --color-accent:    #8B1A1A;       /* academic crimson */
-  --color-accent-hover: #a82828;
+  --color-accent:    #B5282A;       /* vivid crimson — clearly distinct from body text */
+  --color-accent-hover: #8B1A1A;   /* darker on hover */
   --color-link:      #1a2744;
+  --color-link-underline: rgba(181, 40, 42, 0.3);
   --color-border:    #e8e5df;
   --color-callout-bg:   #f0f4f8;
   --color-callout-border: #3d6ea5;
@@ -51,6 +52,7 @@
     --color-accent:    #e8766a;
     --color-accent-hover: #f09080;
     --color-link:      #7eb8e0;
+    --color-link-underline: rgba(232, 118, 106, 0.35);
     --color-border:    #333445;
     --color-callout-bg:   #1e2535;
     --color-callout-border: #4a7fb5;
@@ -132,12 +134,28 @@ strong {
 
 a {
   color: var(--color-accent);
-  text-decoration: none;
-  transition: color 0.15s ease;
+  text-decoration: underline;
+  text-decoration-color: var(--color-link-underline);
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+  transition: all 0.15s ease;
 }
 
 a:hover {
-  color: var(--color-accent);
+  color: var(--color-accent-hover);
+  text-decoration-color: var(--color-accent-hover);  /* full-color underline on hover */
+}
+
+/* Keep nav, social icons, and header links clean (no underline) */
+.navbar a,
+.social-icons a,
+header a {
+  text-decoration: none;
+}
+
+.navbar a:hover,
+header a:hover {
+  text-decoration: none;
 }
 
 a small {
@@ -363,6 +381,12 @@ papertitle {
 
 .callout-box a {
   color: var(--color-accent);
+}
+
+/* Kill the bottom margin on the last <p> inside callouts */
+.callout-box > :last-child,
+.callout-highlight > :last-child {
+  margin-bottom: 0;
 }
 
 /* Highlight callout — for textbook, special announcements */
