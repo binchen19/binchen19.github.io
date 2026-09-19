@@ -9,7 +9,9 @@ Hi! I am an Assistant Professor at the [School of Future Media](https://hkums.hk
 </div>
 
 <div class="callout-highlight" markdown="1">
-**PhD Applicants** — Please refer to the [SFM's official guidelines](https://hkums.hku.hk/master-of-philosophy-doctor-of-philosophy-in-journalism/), and apply directly through [HKU's official application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system). 如在其他平台（如小红书）看到关于我招生的信息，请注意那并非本人发布。各平台中介请勿未经授权转载本页内容。有意向的同学欢迎直接发邮件联系我获取准确信息。
+**PhD Applicants** — I am currently considering inquiries only from applicants with strong quantitative or computational skills, a solid grounding in statistics, and research interests aligned with computational social science. Please review [SFM’s guidelines](https://hkums.hku.hk/master-of-philosophy-doctor-of-philosophy-in-journalism/) and apply through [HKU’s application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system).
+
+如在其他平台（如小红书）看到关于我招生的信息，请注意那并非本人发布。各平台中介请勿未经授权转载本页内容。有意向且符合上述条件的同学，欢迎直接发邮件联系我。
 </div>
 
 {: #publication}
