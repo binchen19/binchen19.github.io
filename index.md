@@ -55,11 +55,11 @@ My open-source textbook, [Data Journalism with R](https://binchen19.github.io/dj
   <div class="person-bg">B.A., Zhejiang University; M.A., Tsinghua University</div>
 </div>
 <div class="person">
-  <div class="person-line"><strong>Mengmeng Wu</strong>, HKU SRP Student, <span class="person-next">now PhD student in Organizational Behavior at Northwestern University</span></div>
+  <div class="person-line"><strong>Mengmeng Wu</strong>, HKU Summer Research Programme student, <span class="person-next">now PhD student in Organizational Behavior at Northwestern University</span></div>
   <div class="person-bg">B.A., Fudan University; M.A., University of Chicago</div>
 </div>
 <div class="person">
-  <div class="person-line"><strong>Jingtian Hu</strong>, HKU SRP Student, co-advised with Prof. Haohan Chen <span class="person-next">now PhD student in Political Science at Columbia University</span></div>
+  <div class="person-line"><strong>Jingtian Hu</strong>, HKU Summer Research Programme student, co-advised with Prof. Haohan Chen, <span class="person-next">now PhD student in Political Science at Columbia University</span></div>
   <div class="person-bg">B.A. and M.A., Tsinghua University</div>
 </div>
 </div>
@@ -69,9 +69,7 @@ My open-source textbook, [Data Journalism with R](https://binchen19.github.io/dj
 
 **Research Assistants** — I'm looking for RAs in Computational Social Science. Strong skills in statistics and programming (Python or R) are required. If you're interested, please email me your CV.
 
-**PhD Applicants** — I am currently considering inquiries only from applicants with strong quantitative or computational skills, a solid grounding in statistics, and research interests aligned with computational social science. Please review [SFM’s guidelines](https://hkums.hku.hk/master-of-philosophy-doctor-of-philosophy-in-journalism/) and apply through [HKU’s application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system).
-
-<p class="note" lang="zh">如在其他平台（如小红书）看到关于我招生的信息，请注意那并非本人发布。各平台中介请勿未经授权转载本页内容。有意向且符合上述条件的同学，欢迎直接发邮件联系我。</p>
+**PhD Applicants** — I am currently considering inquiries from applicants with a strong academic record (a bachelor’s degree from a leading university and an MPhil in a related field), strong statistics, quantitative or computational skills, and research interests aligned with computational social science. Please review [SFM’s guidelines](https://hkums.hku.hk/master-of-philosophy-doctor-of-philosophy-in-journalism/) and apply through [HKU’s application portal](https://gradsch.hku.hk/prospective_students/application/how_to_apply/online_application_system).
 
 {: #contact}
 ## Contact
