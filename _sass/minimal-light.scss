@@ -15,8 +15,7 @@
    ========================================================== */
 
 /* --- Google Fonts --- */
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap');
 
 /* --- CSS Custom Properties (easy to tweak later) --- */
 :root {
@@ -37,8 +36,9 @@
   --font-display:    'Crimson Pro', Georgia, serif;
   --font-body:       'Source Sans 3', -apple-system, sans-serif;
   --font-mono:       'SFMono-Regular', Consolas, monospace;
-  --content-width:   750px;
-  --sidebar-width:   232px;
+  --content-width:   860px;       /* max; shrinks on narrower screens */
+  --sidebar-width:   220px;
+  --layout-gap:      56px;
 }
 
 /* --- Dark Mode --- */
@@ -69,7 +69,7 @@
 body {
   background-color: var(--color-bg);
   padding: 0;
-  font: 16px/1.7 var(--font-body);
+  font: 15px/1.6 var(--font-body);
   color: var(--color-text);
   font-weight: 400;
   margin: 0;
@@ -97,10 +97,10 @@ h2 {
   font-weight: 600;
   font-size: 15px;
   color: var(--color-heading);
-  margin: 2.5rem 0 1rem;
+  margin: 2rem 0 0.7rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  padding-bottom: 8px;
+  padding-bottom: 6px;
   border-bottom: 1.5px solid var(--color-border);
 }
 
@@ -115,7 +115,7 @@ h3, h4, h5, h6 {
 /* No need for separate dark mode overrides — CSS vars handle it */
 
 p, ul, ol, table, pre, dl {
-  margin: 0 0 20px;
+  margin: 0 0 14px;
 }
 
 h1, h2, h3 {
@@ -172,7 +172,8 @@ a small {
 
 .wrapper {
   position: relative;
-  width: 1060px;
+  max-width: calc(var(--sidebar-width) + var(--layout-gap) + var(--content-width));
+  padding: 0 24px;
   margin: 0 auto;
 }
 
@@ -181,14 +182,14 @@ header {
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
-  padding-top: 4.0em;
+  padding-top: 2.2em;
   text-align: center;
 }
 
 section {
-  width: var(--content-width);
+  width: calc(100% - var(--sidebar-width) - var(--layout-gap));
   float: right;
-  padding-top: 4.0em;
+  padding-top: 1.6em;
   padding-bottom: 50px;
 }
 
@@ -300,6 +301,173 @@ papertitle {
   background-color: var(--color-border);
   color: var(--color-accent) !important;
   transform: scale(1.15);
+}
+
+
+/* ======================
+   SIDEBAR TEXT
+   ====================== */
+
+.hdr-role {
+  font-size: 15px;
+  color: var(--color-text);
+  margin: 0 0 2px;
+  line-height: 1.45;
+}
+
+.hdr-inst {
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 10px 0 6px;
+}
+
+.hdr-inst a {
+  color: var(--color-text-muted);
+}
+
+.hdr-inst a:hover {
+  color: var(--color-accent);
+}
+
+
+/* ======================
+   PUBLICATIONS — compact list
+   (venue badge + title on line 1, authors · venue · links on line 2)
+   ====================== */
+
+.pubs {
+  margin: 0 0 14px;
+}
+
+.pub {
+  padding: 5px 0;
+}
+
+.pub-title {
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 1.45;
+}
+
+.pub-title a {
+  color: var(--color-heading);
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-decoration-color: var(--color-link-underline);
+}
+
+.pub-badge {
+  display: inline-block;
+  min-width: 2.6em;
+  text-align: center;
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1;
+  padding: 3px 5px;
+  margin-right: 7px;
+  border-radius: 3px;
+  background: var(--color-heading);
+  color: var(--color-bg);
+  vertical-align: 2px;
+}
+
+.pub-meta {
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--color-text-muted);
+  margin-top: 1px;
+}
+
+.pub-meta strong {
+  color: var(--color-text);
+}
+
+.pub-meta em {
+  color: var(--color-text);
+}
+
+.pub-links {
+  white-space: nowrap;
+  margin-left: 4px;
+}
+
+.pub-links a {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  color: var(--color-accent);
+  border: 1px solid var(--color-link-underline);
+  border-radius: 3px;
+  padding: 0 5px;
+  margin-right: 3px;
+  vertical-align: 1px;
+}
+
+.pub-links a:hover {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: var(--color-bg);
+}
+
+/* Public writings: same entries, no year gutter */
+.pubs-plain .pub-badge {
+  min-width: 3.8em;
+  background: transparent;
+  color: var(--color-heading);
+  border: 1px solid var(--color-heading);
+  padding: 2px 4px;
+}
+
+/* Advising list */
+.people {
+  margin: 0 0 14px;
+}
+
+.person {
+  padding: 4px 0;
+}
+
+.person-line {
+  line-height: 1.5;
+}
+
+.person-line strong {
+  color: var(--color-heading);
+}
+
+.person-next {
+  color: var(--color-text);
+}
+
+.person-bg {
+  font-size: 14px;
+  color: var(--color-text-muted);
+  line-height: 1.5;
+}
+
+/* Keep section headings visible below the sticky menu when jumping via nav links */
+[id] {
+  scroll-margin-top: 52px;
+}
+
+/* Small muted note (e.g., Chinese notice for applicants) */
+.note {
+  font-size: 13.5px;
+  color: var(--color-text-muted);
+  line-height: 1.65;
+}
+
+/* Sidebar email + spacing */
+.hdr-email {
+  font-size: 14px;
+  color: var(--color-text-muted);
+  margin-bottom: 10px;
 }
 
 
@@ -527,14 +695,40 @@ section > p:last-child > em {
   }
 
   header {
-    padding: 20px;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 16px 0 12px;
+    text-align: left;
+  }
+
+  header .image.avatar {
+    flex: 0 0 auto;
+  }
+
+  .hdr-text h1 {
+    margin-bottom: 4px;
+  }
+
+  .hdr-inst {
+    margin: 4px 0 2px;
+  }
+
+  .hdr-email {
+    margin-bottom: 2px;
+  }
+
+  .social-icons a {
+    height: 2rem;
+    width: 2rem;
+    line-height: 2.1rem;
+    margin-right: 0.2rem;
   }
 
   section {
     border-top: 1px solid var(--color-border);
-    padding: 20px;
-    margin: 0 0 20px;
+    padding: 8px 0 20px;
+    margin: 0;
   }
 
   header a small {
@@ -543,8 +737,8 @@ section > p:last-child > em {
 
   .image.avatar img {
     border-radius: 50%;
-    width: 120px;
-    height: 120px;
+    width: 110px;
+    height: 110px;
     padding: 0;
   }
 
@@ -560,8 +754,12 @@ section > p:last-child > em {
     padding: 15px;
   }
 
+  div.wrapper {
+    padding: 0;
+  }
+
   header {
-    padding: 0 0 20px;
+    padding: 4px 0 12px;
   }
 
   pre, code {
@@ -589,9 +787,21 @@ section > p:last-child > em {
 
   .image.avatar img {
     border-radius: 50%;
-    width: 95px;
-    height: 95px;
+    width: 84px;
+    height: 84px;
     padding: 0;
+  }
+
+  header {
+    gap: 14px;
+  }
+
+  .hdr-text h1 {
+    font-size: 24px;
+  }
+
+  .hdr-role, .hdr-inst {
+    font-size: 14px;
   }
 }
 
@@ -653,4 +863,163 @@ section > p:last-child > em {
   transition: all 0.3s;
   width: 3.6rem;
   z-index: 10;
+}
+
+/* ==========================================================
+   THEME: professional, slightly technical
+   IBM Plex Sans for text, IBM Plex Mono for small UI details
+   (menu, badges, links, email). Light by default, dark if the
+   visitor's device is set to dark mode.
+   ========================================================== */
+
+:root {
+  --color-bg:          #FBFBFA;
+  --color-surface:     #FFFFFF;
+  --color-text:        #23262F;
+  --color-text-muted:  #5C6273;
+  --color-heading:     #14213D;
+  --color-accent:      #0B6E99;
+  --color-accent-hover:#084E6D;
+  --color-link:        #0B6E99;
+  --color-link-underline: rgba(11, 110, 153, 0.28);
+  --color-border:      #E3E5EA;
+  --color-tint:        #EEF3F7;
+  --font-display:      'IBM Plex Sans', -apple-system, sans-serif;
+  --font-body:         'IBM Plex Sans', -apple-system, 'PingFang SC', 'Noto Sans SC', sans-serif;
+  --font-mono:         'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg:          #12151C;
+    --color-surface:     #191D26;
+    --color-text:        #D6DAE3;
+    --color-text-muted:  #959CAE;
+    --color-heading:     #E8ECF5;
+    --color-accent:      #5CC3E3;
+    --color-accent-hover:#8AD6EE;
+    --color-link:        #5CC3E3;
+    --color-link-underline: rgba(92, 195, 227, 0.3);
+    --color-border:      #272C37;
+    --color-tint:        #1C2330;
+  }
+}
+
+a:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Sidebar */
+header h1 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 28px;
+  letter-spacing: -0.01em;
+  color: var(--color-heading);
+}
+
+.hdr-role {
+  color: var(--color-text);
+  font-size: 14.5px;
+}
+
+.hdr-inst a {
+  color: var(--color-text-muted);
+}
+
+.hdr-inst a:hover {
+  color: var(--color-accent);
+}
+
+.hdr-email {
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+}
+
+.social-icons a:hover {
+  background-color: var(--color-tint);
+  color: var(--color-accent) !important;
+}
+
+/* Section headings: sentence case with a small slash marker */
+h2 {
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--color-heading);
+  border-bottom: 1px solid var(--color-border);
+}
+
+h2::before {
+  content: "/";
+  font-family: var(--font-mono);
+  font-weight: 500;
+  color: var(--color-accent);
+  margin-right: 0.5em;
+}
+
+/* Links */
+a {
+  color: var(--color-accent);
+  text-decoration-color: var(--color-link-underline);
+}
+
+a:hover {
+  color: var(--color-accent-hover);
+  text-decoration-color: var(--color-accent-hover);
+}
+
+/* Publications */
+.pub-title a {
+  color: var(--color-heading);
+}
+
+.pub-title a:hover {
+  color: var(--color-accent);
+  text-decoration-color: var(--color-link-underline);
+}
+
+.pub-badge {
+  font-family: var(--font-mono);
+  font-weight: 600;
+  font-size: 10.5px;
+  background: var(--color-tint);
+  color: var(--color-heading);
+  border: 1px solid var(--color-border);
+  padding: 2px 5px;
+  border-radius: 3px;
+  vertical-align: 1px;
+}
+
+.pubs-plain .pub-badge {
+  background: transparent;
+  color: var(--color-text-muted);
+  border-color: var(--color-border);
+}
+
+.pub-links a {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 500;
+  color: var(--color-accent);
+  border-color: var(--color-link-underline);
+  border-radius: 3px;
+}
+
+.pub-links a:hover {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: var(--color-bg);
+}
+
+/* Footer line */
+section > p:last-of-type > em {
+  font-family: var(--font-mono);
+  font-style: normal;
+  font-size: 12px;
+  color: var(--color-text-muted);
 }

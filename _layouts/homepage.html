@@ -41,57 +41,52 @@
         position: sticky;           /* CHANGED: sticky so it follows on scroll */
         top: 0;
         right: 0;
-        background-color: var(--color-bg, #FAFAF7);
-        padding: 12px 10px;
+        background-color: var(--color-bg);
+        padding: 8px 10px;
         z-index: 100;
         text-align: right;
         backdrop-filter: blur(8px);
         -webkit-backdrop-filter: blur(8px);
-        border-bottom: 1px solid var(--color-border, #e8e5df);
+        border-bottom: 1px solid var(--color-border);
       }
 
       .navbar a {
-        font-family: 'Source Sans 3', sans-serif;
+        font-family: var(--font-mono);
         text-decoration: none;
-        color: var(--color-heading, #1a2744);
-        margin: 0 6px;
-        padding: 6px 12px;
-        border-radius: 5px;
-        font-size: 14px;
+        color: var(--color-text-muted);
+        margin: 0 2px;
+        padding: 5px 10px;
+        border-radius: 3px;
+        font-size: 13px;
         font-weight: 500;
-        transition: background-color 0.15s ease;
+        transition: color 0.15s ease, background-color 0.15s ease;
       }
 
       .navbar a:hover {
-        background-color: var(--color-border, #e8e5df);
+        color: var(--color-accent);
+        background-color: var(--color-tint);
       }
 
-      .navbar a.active {
-        color: var(--color-accent, #8B1A1A);
-      }
-
-      @media (prefers-color-scheme: dark) {
-        .navbar {
-          background-color: rgba(26, 27, 38, 0.9);
-          border-bottom-color: #333445;
-        }
-        .navbar a {
-          color: #d4d4d4;
-        }
-        .navbar a:hover {
-          background-color: #333445;
-        }
-      }
-
+      /* Phones: keep the menu on one line (scrolls sideways if needed) */
       @media screen and (max-width: 480px) {
         .navbar {
-          text-align: center;
-          padding: 10px 5px;
+          display: flex;
+          justify-content: space-between;
+          padding: 8px 0;
+          white-space: nowrap;
+          overflow-x: auto;
+          scrollbar-width: none;
+        }
+        .navbar::-webkit-scrollbar {
+          display: none;
         }
         .navbar a {
-          font-size: 13px;
-          margin: 0 3px;
-          padding: 5px 8px;
+          font-size: 12px;
+          margin: 0;
+          padding: 5px 5px;
+        }
+        .navbar a.nav-optional {
+          display: none;
         }
       }
     </style>
@@ -106,7 +101,8 @@
         <a href="#about">About</a>
         <a href="#publication">Publications</a>
         <a href="#teaching">Teaching</a>
-        <a href="#grants">Grants</a>
+        <a href="#grants" class="nav-optional">Grants</a>
+        <a href="#join">Join</a>
         <a href="#contact">Contact</a>
       </div>
       
@@ -116,24 +112,29 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="Photo of {{ site.title }}" /></a>
         {% endif %}
 
+        <div class="hdr-text">
         <h1>{{ site.title }}</h1>
 
         {% if site.position %}
-        <p style="font-size: 15px; color: var(--color-text-muted, #5a5a5a); margin: 0 0 4px;">{{ site.position }}</p>
+        <p class="hdr-role">{{ site.position }}</p>
         {% endif %}
 
-        {% if site.affiliation %}
-        <a href="https://hkums.hku.hk/" rel="noopener">
-          <span style="font-size: 15px; color: var(--color-text-muted, #5a5a5a);">{{ site.affiliation }}</span>
-        </a>
-        <br>
+        {% if site.admin_role %}
+        <p class="hdr-role">{{ site.admin_role }}</p>
         {% endif %}
+
+        <div class="hdr-inst">
+          {% if site.department %}
+          <a href="{{ site.department_link }}" rel="noopener">{{ site.department }}</a><br>
+          {% endif %}
+          {% if site.affiliation %}
+          <a href="{{ site.affiliation_link }}" rel="noopener">{{ site.affiliation }}</a>
+          {% endif %}
+        </div>
 
         {% if site.email %}
-        <span style="font-size: 14px; color: var(--color-text-muted, #5a5a5a);">{{ site.email }}</span>
+        <div class="hdr-email">{{ site.email }}</div>
         {% endif %}
-
-        <br><br>
 
         <div class="social-icons">
           {% if site.google_scholar %}
@@ -166,7 +167,7 @@
           </a>
           {% endif %}
         </div>
-        <br>
+        </div>
 
       </header>
       <section>
