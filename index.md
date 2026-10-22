@@ -55,7 +55,7 @@ My open-source textbook, [Data Journalism with R](https://binchen19.github.io/dj
   <div class="person-bg">B.A., Zhejiang University; M.A., Tsinghua University</div>
 </div>
 <div class="person">
-  <div class="person-line"><strong>Mengmeng Wu</strong>, summer research student, <span class="person-next">now PhD student in Organizational Behavior at the Kellogg School of Management, Northwestern University</span></div>
+  <div class="person-line"><strong>Mengmeng Wu</strong>, summer research student, <span class="person-next">now PhD student in Organizational Behavior at Northwestern University</span></div>
   <div class="person-bg">B.A., Fudan University; M.A., University of Chicago</div>
 </div>
 <div class="person">
