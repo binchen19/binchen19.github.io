@@ -3,6 +3,144 @@
 <div class="publications">
 <ol class="bibliography">
 
+<!-- NMS: Cross-platformization -->
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/nms-26.svg" class="teaser img-fluid z-depth-1" alt="New Media &amp; Society">
+      <abbr class="badge">NMS</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://doi.org/10.1177/14614448261470889">Cross-platformization: How US right-leaning media curate their posts on Twitter and Truth Social</a>
+      </div>
+      <div class="author">Josephine Lukito, Yini Zhang, <strong>Bin Chen</strong>, Stephen Prochaska, Meredith L Pruden, Yunkang Yang, Wei Zhong, Megan A Brown, Ross Dahlke, Jason Greenfield, Jiyoun Suk, Porismita Borah</div>
+      <div class="periodical">
+        <em>New Media &amp; Society</em>, Online First, 2026,
+        <a href="https://doi.org/10.1177/14614448261470889">https://doi.org/10.1177/14614448261470889</a>.
+      </div>
+      <div class="links">
+        <a href="https://doi.org/10.1177/14614448261470889" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<!-- ICS: Alex Jones Show -->
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/ics-26.svg" class="teaser img-fluid z-depth-1" alt="Information, Communication &amp; Society">
+      <abbr class="badge">iCS</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://doi.org/10.1080/1369118X.2026.2642851">Style and substance on The Alex Jones Show predict InfoWars sales: A multi-modal analysis of a media empire</a>
+      </div>
+      <div class="author">Ross Dahlke, Yunkang Yang, Josephine Lukito, Jason Greenfield, <strong>Bin Chen</strong>, Megan A Brown, Rebecca Lewis</div>
+      <div class="periodical">
+        <em>Information, Communication &amp; Society</em>, Volume 29, Issue 4, 2026, Pages 1386–1405,
+        <a href="https://doi.org/10.1080/1369118X.2026.2642851">https://doi.org/10.1080/1369118X.2026.2642851</a>.
+      </div>
+      <div class="links">
+        <a href="https://doi.org/10.1080/1369118X.2026.2642851" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<!-- DJ: Picturing Protest -->
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/dj-25-protest.svg" class="teaser img-fluid z-depth-1" alt="Digital Journalism">
+      <abbr class="badge">DJ</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://doi.org/10.1080/21670811.2025.2571963">Picturing Protest: Visual Framing in Authoritarian Media on Twitter</a>
+      </div>
+      <div class="author">Wei Zhong, <strong>Bin Chen</strong>, Fan Liang, Maggie Mengqing Zhang</div>
+      <div class="periodical">
+        <em>Digital Journalism</em>, 2025, pages 1–22,
+        <a href="https://doi.org/10.1080/21670811.2025.2571963">https://doi.org/10.1080/21670811.2025.2571963</a>.
+      </div>
+      <div class="links">
+        <a href="https://doi.org/10.1080/21670811.2025.2571963" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<!-- JS: Fact-Checking Cross-Country -->
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/js-25.svg" class="teaser img-fluid z-depth-1" alt="Journalism Studies">
+      <abbr class="badge">JS</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://doi.org/10.1080/1461670X.2025.2562141">Different Country, Different Truth? A Cross-Country Comparison of Fact-Checking Journalism During Public Health Crises</a>
+      </div>
+      <div class="author"><strong>Bin Chen</strong>, Gyo Hyun Koo</div>
+      <div class="periodical">
+        <em>Journalism Studies</em>, Volume 27, Issue 1, 2026, Pages 23–44,
+        <a href="https://doi.org/10.1080/1461670X.2025.2562141">https://doi.org/10.1080/1461670X.2025.2562141</a>.
+      </div>
+      <div class="links">
+        <a href="https://doi.org/10.1080/1461670X.2025.2562141" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<!-- AJC: CDC Vaccine Communication -->
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/ajc-25.svg" class="teaser img-fluid z-depth-1" alt="Atlantic Journal of Communication">
+      <abbr class="badge">AJC</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://doi.org/10.1080/15456870.2025.2528785">Vaccine communication strategies and audience engagement: Analyzing CDC’s vaccine communication on Twitter</a>
+      </div>
+      <div class="author"><strong>Bin Chen</strong>, Xiaohui Cao, Porismita Borah</div>
+      <div class="periodical">
+        <em>Atlantic Journal of Communication</em>, Volume 34, Issue 2, 2026, Pages 215–234,
+        <a href="https://doi.org/10.1080/15456870.2025.2528785">https://doi.org/10.1080/15456870.2025.2528785</a>.
+      </div>
+      <div class="links">
+        <a href="https://doi.org/10.1080/15456870.2025.2528785" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<!-- SMS: Candidates Be Posting -->
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="assets/img/sms-25-candidates.svg" class="teaser img-fluid z-depth-1" alt="Social Media + Society">
+      <abbr class="badge">SMS</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+      <div class="title">
+        <a href="https://doi.org/10.1177/20563051251337541">Candidates be posting: Multi-platform strategies and partisan preferences in the 2022 US midterm elections</a>
+      </div>
+      <div class="author">Josephine Lukito, Maggie Macdonald, <strong>Bin Chen</strong>, Megan A Brown, Stephen Prochaska, Yunkang Yang, Jason Greenfield, Jiyoun Suk, Wei Zhong, Ross Dahlke, Porismita Borah</div>
+      <div class="periodical">
+        <em>Social Media + Society</em>, Volume 11, Issue 2, 2025,
+        <a href="https://doi.org/10.1177/20563051251337541">https://doi.org/10.1177/20563051251337541</a>.
+      </div>
+      <div class="links">
+        <a href="https://doi.org/10.1177/20563051251337541" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
 <!-- Digital Journalism: Buzz Across Borders -->
 <li>
   <div class="pub-row">
@@ -16,7 +154,7 @@
       </div>
       <div class="author"><strong>Bin Chen</strong>, Anfan Chen, & Shuning Lu</div>
       <div class="periodical">
-        <em>Digital Journalism</em>, 2025, pages 1–20,  
+        <em>Digital Journalism</em>, Volume 14, Issue 2, 2026, Pages 284–303,  
         <a href="https://doi.org/10.1080/21670811.2025.2483737">https://doi.org/10.1080/21670811.2025.2483737</a>.
       </div>
       <div class="links">
@@ -87,7 +225,7 @@
       </div>
       <div class="author"><strong>Bin Chen</strong>, Shuning Lu</div>
       <div class="periodical">
-        <em>The International Journal of Press/Politics</em>, Online First, 2024, 
+        <em>The International Journal of Press/Politics</em>, Volume 31, Issue 1, 2026, Pages 161–183, 
         <a href="https://doi.org/10.1177/19401612241291811">https://doi.org/10.1177/19401612241291811</a>.
       </div>
       <div class="links">
@@ -223,7 +361,7 @@
         <a href="https://ijoc.org/index.php/ijoc/article/view/19479/3879">Journalistic Roles and News Framing: A Comparative Framing Analysis of COVID-19 Pandemic Across China, South Korea, and the United States.</a>
       </div>
       <div class="author"><strong>Bin Chen</strong>, Gyo Hyun Koo</div>
-      <div class="periodical"><em>International Journal of Communication</em>, Volume 16, 2022.</div>
+      <div class="periodical"><em>International Journal of Communication</em>, Volume 16, 2022, Pages 4254–4274.</div>
       <div class="links">
         <a href="https://ijoc.org/index.php/ijoc/article/view/19479/3879" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">PDF</a>
         <a href="https://osf.io/z4uwg/" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Code</a>
